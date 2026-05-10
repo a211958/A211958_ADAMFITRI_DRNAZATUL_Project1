@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A211958_ADAMFITRI_DRNAZATUL_Lab1</string>
+    <string name="baris_satu">Selamat datang</string>
+    <string name="baris_dua">Anda mempunyai 0 aduan</string>
+    <string name="baris_tiga">Semak aduan</string>
+    <string name="baris_empat">Tiada rekod</string>
+    <string name="baris_lima_A">Menu utama</string>
+    <string name="baris_lima_B">Semak aduan</string>
+    <string name="baris_lima_C">Profil</string>
+    <string name="baris_lima_D">Tetapan</string>
+
+</resources>
